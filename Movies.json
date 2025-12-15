@@ -1,0 +1,28 @@
+{
+  "movies": [
+    {
+      "id": "2",
+      "title": "Pulp Fiction",
+      "year": 1994,
+      "genre": "Crime"
+    },
+    {
+      "id": "3",
+      "title": "Dune",
+      "genre": "Sci-Fi",
+      "year": 2021
+    },
+    {
+      "id": "947a",
+      "title": "inception",
+      "genre": "sci-fi",
+      "year": 2010
+    },
+    {
+      "id": "4927",
+      "title": "3 Idiots",
+      "year": 2009,
+      "genre": "Romcom"
+    }
+  ]
+}
